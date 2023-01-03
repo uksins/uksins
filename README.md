@@ -32,4 +32,4 @@
 # ❔ What Is Veylib?
 
 * Here's An Explenation From Verlox:
-![This library aims to be the most versatile and lightweight library with the primary goal of aiding in the pursuit of simple application development with customizability. We try to make this library as lightweight as possible by keeping the amount of external dependencies low or by thinking outside of the box.]
+## ["This library aims to be the most versatile and lightweight library with the primary goal of aiding in the pursuit of simple application development with customizability. We try to make this library as lightweight as possible by keeping the amount of external dependencies low or by thinking outside of the box"]
