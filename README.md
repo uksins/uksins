@@ -9,7 +9,7 @@
 # 🌌Background
 
 * I Got Token Logged For The First Time In 2020: I Had No Knowledge, I Was Straight Outta The .bat Era👽. I Had No Idea That Token Logging Was A Thing.
-* From There I Learned Python, Resulting In My Own: Nukers, Selfbots. From There I Found A "Nuking Community"? Called Lithium [ Arsenic ].
+* From There I Learned Python, Resulting In My Own: Nukers, Selfbots. From There I Found A "Nuking Community" Called Lithium [ Arsenic ].
 * I Was Amazed By Their Nuker, Thus Resulting In Verlox Teaching Me C#.
 
 # 📌Projects I'm Working On
@@ -31,5 +31,8 @@
 
 # ❔ What Is Veylib?
 
-* Here's An Explenation From Verlox:
-## ["This library aims to be the most versatile and lightweight library with the primary goal of aiding in the pursuit of simple application development with customizability. We try to make this library as lightweight as possible by keeping the amount of external dependencies low or by thinking outside of the box"]
+# Veylib is a library aims to be the most versatile and lightweight library with the primary goal of aiding in the pursuit of simple application development with customizability. The library has been designed in such a way that it is as lightweight as possible by keeping the amount of external dependencies low or by thinking outside of the box.
+
+# ❓ What Is Veyauth?
+
+# Veyauth Is Currently A Work-In-Progress, But Aims To Be A Node Package In TypeScript, For A Simplified Authentication System.
