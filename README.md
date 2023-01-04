@@ -2,7 +2,7 @@
 [ This README Was Not Stolen From https://github.com/verlox ]
  
  <img source="https://discord.c99.nl/widget/theme-4/834174602329587732.png"></img>
- ![sins' Poor GitHub Stats](https://github-readme-stats.vercel.app/api?username=sins9&show_icons=true&theme=radical)
+ ![sins' Poor GitHub Stats](https://github-readme-stats.vercel.app/api?username=uksins&show_icons=true&theme=radical)
 </div>
 
 # 🌌Background
