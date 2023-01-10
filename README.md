@@ -8,7 +8,7 @@
 # 🌌Background
 
 * I Got Token Logged For The First Time In 2020: I Had No Knowledge, I Was Straight Outta The .bat Era👽. I Had No Idea That Token Logging Was A Thing.
-* From There I Learned Python, Resulting In My Own: Nukers, Selfbots. From There I Found A "Nuking Community" Called Lithium [ Arsenic ].
+* From There I Learned Python, Resulting In My Own: Nukers, Selfbots. From There I Found A "Nuking Community" Called Lithium  [ Arsenic ].
 * I Was Amazed By Their Nuker, Thus Resulting In Verlox Teaching Me C#.
 
 # 📌Projects I'm Working On
