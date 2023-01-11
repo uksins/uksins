@@ -12,6 +12,7 @@
 
 # 📌Projects I'm Working On
 
+* Astra - A Discord Command-Line Tool
 * A Panel That Allows Users To Interact WIth Most, If Not All Of Veylib's [ https://github.com/verlox/Veylib ] Features.
 * An Automatic Project Updater For Github
 * Serenity Menu For GTAV
