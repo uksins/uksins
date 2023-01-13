@@ -21,6 +21,7 @@
 
 * C++
 * WPF C#
+* JAVASCRIPT
 * TYPESCRIPT
 
 # 🔔 Projects You Should Check Out
