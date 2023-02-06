@@ -19,6 +19,7 @@
 
 # 💫 Things Im Currently OR Hoping To Learn
 
+* C
 * C++
 * WPF C#
 * JAVASCRIPT
